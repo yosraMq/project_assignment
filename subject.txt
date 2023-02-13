@@ -3,3 +3,5 @@ chemistry
 mathematics
 
 english
+
+arabic
