@@ -4,9 +4,9 @@ mathematics
 
 english
 
-arabic
+Arabic
 
 relagion
 
-
+=
 computer 
