@@ -4,9 +4,17 @@ mathematics
 
 english
 
-aarabic
+
+Arabic
 
 relagion
 
 
-computer 
+
+Arabic
+
+relagion
+
+=
+
+computer
